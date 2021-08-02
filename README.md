@@ -1,16 +1,17 @@
 # IITK-EE
 
 ### Hi Visitor !!
-My name is <i><b>Harsh Kumar</b></i>. I am a Y19 undergraduate student at IIT Kanpur. I have tried my best to compile any and all resources and study material related to batti (IITK lingo for Electrical Engg. branch) DCs and DEs at IITK that I could get. 
+My name is <i><b>Harsh Kumar</b></i>. I am a Y19 undergraduate student at IIT Kanpur. I have tried my best to compile all my resources and study material related to batti DCs and DEs at IIT Kanpur. 
 
 Note:- At the moment, I am still building this repo, so some of this might sound weird but it is meant for the time when the repo has a tonne of useful materials
 
-- Mine was one of the those batches who were unlucky enough to have experienced the trauma of 2* consecutive online semesters. 
+- Mine was one of the those batches who were unlucky enough to have experienced the trauma of 3* consecutive online semesters. 
 - Yet, the only positive aspect of that period was that, all resources were given to us as a soft copy, which made it easy to organise them at places like here.
 - As I progress through my semesters, I would be putting all my study materials here. 
 <!-- - And, I will also try to fetch materials for other EE courses from my friends who would be taking them. -->
 - And to make it a bit different from all other resource compilation, I would be putting up some advices, feedbacks and my experiences in those courses. 
 <!-- - I will also try to make such compilation for the courses that my friends would be taking too. -->
+- All materials are present on my google drive and I have embedded the links to all respective folders in the README files. Just click on the course folder, and scroll down the README file that is displayed to find a small table containing all the links.
 
 
 Here's what I have - 
@@ -38,4 +39,4 @@ Here's what I have -
 
 That's enough to start with. 
 
-If you face any issues accessing the materials or want to discuss anything about the experiences that I share, please feel free to contact me. You can text me on <a href="https://www.facebook.com/harshkumar.iitk" target="_blank">Facebook</a> or <a href="https://www.linkedin.com/in/harsh-kumar-4628711a9/" target="_blank">LinkedIn</a>.
+If you face any issues accessing the materials or want to discuss anything about the experiences that I share, please feel free to contact me. You can text me on <a href="https://www.facebook.com/harshkumar.iitk" target="_blank">Facebook</a> or <a href="https://www.linkedin.com/in/harsh-kumar-4628711a9/" target="_blank">LinkedIn</a>. If you find anything that is wrong, suggestions in the form of pull requests are always welcome :)
